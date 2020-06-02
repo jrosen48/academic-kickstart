@@ -24,5 +24,5 @@ Ben Gibbons is an undergraduate student studying psychology and computer science
 <br>
 <br>
 <br>
-<img src="/img/michela.jpg"/>
+<img src="/img/bgibbons.jpg"/>
 
