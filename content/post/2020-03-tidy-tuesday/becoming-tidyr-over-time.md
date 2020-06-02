@@ -106,6 +106,9 @@ An analysis of the proportion of functions by classification per week was also a
 * **visualization** functions remain relatively stable over time
   + These include functions like `theme(), geom_path(), aes(), facet_wrap()`
   
+
+<img src="https://github.com/making-data-science-count/mdsc-homepage/raw/master/content/post/2020-03-tidy-tuesday/prop%20of%20code%20by%20function.jpeg" width="75%" />
+
 ![Proportion of Code](prop of code by function.jpeg)
 
 ### Qualitative Coding
@@ -116,7 +119,7 @@ An analysis of the proportion of functions by classification per week was also a
 
 It was found that a majority of tweets were visualization focused, either explaining the visualizations themselves (how they were made, what they looked at) or discussing interesting findings in the data.
 
-![Qualitative Tweet Analysis](tweets.png){width=300px}
+<img src="https://github.com/making-data-science-count/mdsc-homepage/raw/master/content/post/2020-03-tidy-tuesday/tweets.png" width="75%" />
 
 Some examples:
 
@@ -139,7 +142,8 @@ tweet %>% kable()
 #### Retweets
 Likewise, 150 randomly sampled retweets were coded. Retweets were chosen as they can reveal how users are not only contributing to the #TidyTuesday challenge itself but how they are engaging with the community. Most retweets were simply promoting #TidyTuesday (e.g. "It's #TidyTuesday yall!")and these were removed from analysis as they were not seen as substantive. More substantive tweet content was found to mostly be about celebrating others' work, related to their own learning via the community, or sharing the work of others.
 
-![Retweets](retweets.png){width=300px}
+<img src="https://github.com/making-data-science-count/mdsc-homepage/raw/master/content/post/2020-03-tidy-tuesday/retweets.png" width="75%" />
+
 
 
 ```{r, echo=FALSE, warning=FALSE}
