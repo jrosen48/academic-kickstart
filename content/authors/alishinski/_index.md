@@ -3,6 +3,17 @@ authors:
 - alishinski
 name: Alex Lishinski
 bio: 'Postdoctoral Scholar, Computer Science Education'
+education:
+  courses:
+  - course: PhD, Educational Psychology and Educational Technology
+    institution: Michigan State University
+    year: 2017
+  - course: MA, Philosophy
+    institution: Texas A&M University
+    year: 2013
+  - course: BA, Philosophy, German
+    institution: Michigan State University
+    year: 2010
 email: "alishins@utk.edu"
 organizations:
 - name: University of Tennessee, Knoxville
