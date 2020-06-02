@@ -9,6 +9,10 @@ role: "Ph.D. Student, Theory and Practice in Teacher Education"
 superuser: false
 user_groups:
 - 'Research Group Members'
+social:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/jen_longnecker
 weight: 2
 ---
 
