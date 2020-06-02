@@ -7,7 +7,7 @@ email: "email@email.com"
 interests:
 organizations:
 - name: University of Tennessee, Knoxville
-role: ''
+role: 'Undergraduate Student'
 social:
 superuser: true
 user_groups:
