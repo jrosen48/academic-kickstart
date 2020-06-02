@@ -1,9 +1,9 @@
 ---
 authors:
-- bgibbons
-name: Benjamin Gibbons
-bio: "Undergraduate Student, Emory University"
-email: "ben.gibbons@emory.edu"
+- nkenner
+name: Nathan Kenner
+bio: "University of Tennessee, Knoxville"
+email: "email@email.com"
 interests:
 organizations:
 - name: Emory University
@@ -20,5 +20,5 @@ weight: 3.06
 <br>
 <br>
 <br>
-<img src="/img/gibbons.png"/>
+<img src=""/>
 
