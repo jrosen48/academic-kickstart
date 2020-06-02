@@ -1,7 +1,7 @@
 ---
 authors:
-- tthomas
-name: Tayla Thomas
+- Esther Michela
+name: Esther Michela
 bio: ""
 email: "hqm263@vols.utk.edu"
 interests:
