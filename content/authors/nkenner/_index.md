@@ -6,8 +6,8 @@ bio: "University of Tennessee, Knoxville"
 email: "email@email.com"
 interests:
 organizations:
-- name: Emory University
-role: 'Undergraduate Student, Emory University'
+- name: University of Tennessee, Knoxville
+role: ''
 social:
 superuser: true
 user_groups:
