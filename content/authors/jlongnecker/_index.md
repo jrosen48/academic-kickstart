@@ -15,9 +15,7 @@ social:
   link: https://twitter.com/jen_longnecker
 weight: 2
 ---
-
 Jennifer Longnecker is currently a Graduate Teaching Associate at the University of Tennessee. She received her BS at Texas A&M University in College Station, Texas. She received her MS in Elementary Education at the University of Tennessee and formally taught at Spring Hill Elementary and most recently at Linden Elementary School in Oak Ridge. Jennifer is currently pursuing a PhD in Elementary Education at the University of Tennessee with a cognate in Educational Technology. 
-
 
 <br>
 <br>
