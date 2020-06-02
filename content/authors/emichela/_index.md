@@ -3,11 +3,11 @@ authors:
 - Esther Michela
 name: Esther Michela
 bio: ""
-email: "hqm263@vols.utk.edu"
+email: ""
 interests:
 organizations:
 - name: University of Tennessee, Knoxville
-role: "Undergraduate Student"
+role: "Ph.D. Student, Learning, Design, and Technology program"
 social:
 - icon: twitter
   icon_pack: fab
@@ -18,10 +18,4 @@ user_groups:
 weight: 3.1
 ---
 
-Tayla Thomas is an undergraduate student in VolsTeach (mathematics emphasis) at the University of Tennesee, Knoxville.<br>
-<br>
-<br>
-<br>
-<br>
-<img src="/img/thomas.jpg"/>
-
+Esther Michela
