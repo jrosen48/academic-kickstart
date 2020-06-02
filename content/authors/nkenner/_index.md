@@ -7,7 +7,7 @@ email: "email@email.com"
 interests:
 organizations:
 - name: University of Tennessee, Knoxville
-role: 'Undergraduate Student'
+role: 'Ph.D. Student, Theory and Practice in Teacher Education'
 social:
 superuser: true
 user_groups:
