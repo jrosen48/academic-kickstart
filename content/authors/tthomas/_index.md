@@ -7,7 +7,7 @@ email: "hqm263@vols.utk.edu"
 interests:
 organizations:
 - name: University of Tennessee, Knoxville
-role: "Undergraduate Student Univeristy of Tennesee, Knoxville"
+role: "Undergraduate Student"
 social:
 - icon: twitter
   icon_pack: fab
