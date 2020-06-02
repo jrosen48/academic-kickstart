@@ -11,7 +11,10 @@ role: "Undergraduate Student, Psychology and Computer Science Double Major"
 social:
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: https://twitter.com/Bdgibbo
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/ben.gibbons.33449
 superuser: true
 user_groups:
 - 'Research Group Members'
