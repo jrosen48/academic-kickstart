@@ -1,27 +1,27 @@
 ---
 authors:
-- aschmidt
-name: Anthony Schmidt
-bio: "PhD student in evaluation, statistics, and measurement (ESM), part of the Educational Psychology and Counseling Department"
-email: "aschmi11@utk.edu"
-interests:
+- bcarter
+name: Brooke Carter (She/Her)
+bio: "High School Science Educator for Physics and Astronomy at a local STEM Magnet High School"
+email: "acarte53@vols.utk.edu"
+interests: "Science Education, Promoting Women and Minorities in STEM, Culturally Conscious Education"
 organizations:
-- name: University of Tennessee, Knoxville
-role: 'Ph.D. Student, Evaluation, Statistics, and Measurement'
+- name: L&N STEM Academy
+role: 'Science Teacher'
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/AnthonyTeacher
+  link: https://twitter.com/CarterPhysAstro
 - icon: github
   icon_pack: fab
-  link: https://github.com/acircleda
+  link: https://github.com/acarte53
 superuser: true
 user_groups:
 - 'Research Group Members'
 weight: 2
 ---
 
-Anthony Schmidt is a PhD student in evaluation, statistics, and measurement (ESM), part of the Educational Psychology and Counseling Department. His research interests are varied and include international students, higher education, climate change and education, quantitative methods, and data visualization. Anthony also works full time as a data visualization research at the College and University Professional Association for Human Resources (CUPA-HR).
+Brooke Carter is a local High School educator at the L&N STEM Academy, which is a STEM magnet high school covering several counties in East Tennessee. She is currently teaching a variety of Physics and Astronomy classes and is the coach for the school's Science Olympiad team. Her research interests include data use in the science classroom, and specifically her current research involves large scale data analysis from real world instruments. 
 <br>
 <br>
 <br>
