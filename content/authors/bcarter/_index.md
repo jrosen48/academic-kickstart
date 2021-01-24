@@ -4,7 +4,6 @@ authors:
 name: Brooke Carter (She/Her)
 bio: "High School Science Educator for Physics and Astronomy at a local STEM Magnet High School"
 email: "acarte53@vols.utk.edu"
-interests: "Science Education, Promoting Women and Minorities in STEM, Culturally Conscious Education"
 organizations:
 - name: L&N STEM Academy
 role: 'Science Teacher'
@@ -21,7 +20,7 @@ user_groups:
 weight: 2
 ---
 
-Brooke Carter is a local High School educator at the L&N STEM Academy, which is a STEM magnet high school covering several counties in East Tennessee. She is currently teaching a variety of Physics and Astronomy classes and is the coach for the school's Science Olympiad team. Her research interests include data use in the science classroom, and specifically her current research involves large scale data analysis from real world instruments. 
+Brooke Carter is a local High School educator at the L&N STEM Academy, which is a STEM magnet high school covering several counties in East Tennessee. She is currently teaching a variety of Physics and Astronomy classes and is the coach for the school's Science Olympiad team. Her research interests include data use in the science classroom, and specifically her current research involves large scale data analysis from real world instruments. Her broader research interests include sccience education, promoting women and minorities in STEM, and culturally conscious education.
 <br>
 <br>
 <br>
