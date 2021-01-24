@@ -1,5 +1,5 @@
 ---
-title: Presentation at the 2021 TN STEM Education Virtual Conference: Insights on the current and preferred integration of computer science in K-8 education in Tennessee
+title: Presentation at the 2021 TN STEM Education Virtual Conference - Insights on the current and preferred integration of computer science in K-8 education in Tennessee
 author: ''
 date: '2021-01-11'
 slug: insights-on-the-current-and-preferred-integration-of-computer-science-in-k8-education-in-tennessee
