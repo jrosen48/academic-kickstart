@@ -27,5 +27,5 @@ Sarah Narvaiz is a PhD student in evaluation, statistics, and measurement (ESM),
 <br>
 <br>
 <br>
-
+<img src="/img/S. Narvaiz.jpg" style = "max-width:65%"/>
 
