@@ -21,34 +21,29 @@ Our research group had a number of presentations at the National Association for
 
 ## NARST
 
-\hangindent=2em
 Sorge, S., Kubsch, M., Rosenberg, J. M., & D'Angelo, C. (2021, April). *Rethinking how you understand your data with R*. Workshop carried out at the National Association for Research in Science Teaching. 
 
 ## AERA
-\hangindent=2em
+
 Rosenberg, J. M., Borchers, C., Gibbons, B., Dyer, E. D., Anderson, D. A., & Fischer, C. (2020, April). Don't worry, be happy: A sentment analysis of the #NGSSchat Twitter Symposium community. In M. Rehm. (Chair), *Social opportunity spaces: How social media can inform/shape educational policy processes*. Symposium conducted at the American Educational Research Association Annual Meeting.
 
 **Link to presentation slides: https://docs.google.com/presentation/d/1DrzpaBghKPTV9xxn3zUXtaXzal-K3aLcRQyYTkf9MLI/edit?usp=sharing**
 
-\hangindent=2em
 Rosenberg, J. M., Carpenter, J., Michela, E., Sultana, O., McKenna, T. J., Dyer, E. D., & Reid, J. (2021, April). *"Best P.D. out there"? An exploration of the #NGSSchat network on Twitter*. Presentation at the American Educational Research Association Annual Meeting.
 
 **Link to presentation slides: https://docs.google.com/presentation/d/1USoCWwVHemohhOWpxYLMQQZt_FSpeCMermuWYyq9QDY/edit?usp=sharing**
 
-\hangindent=2em
 Lishinski, A., Rosenberg, J. M., Sultana, O., Mann, M., & Dunn, J. (2021, April). *A text messaging–based experience sampling method study of students' interest in introductory computer science*. Presentation at the American Educational Research Association Annual Meeting.
 
 **Link to presentation slides: https://docs.google.com/presentation/d/1a6ptKw-8QAkUALaBdtVTJF4JKtZ5kUPPZPYdDoz3snI/edit?usp=sharing**
 
-\hangindent=2em
+
 Michela, E., Rosenberg, J. M., Sultana, O., Burchfield, M., Thomas, T., & Kimmons, R. (2021, April). *“Life will eventually get back to normal”: School districts’ Twitter use in response to COVID-19*. Poster presentation at the American Educational Research Association Annual Meeting.
 
 **Link to poster presentation: https://aera21-aera.ipostersessions.com/Default.aspx?s=6A-56-78-CB-DE-97-46-62-F2-06-0C-DB-60-07-A6-98**
 
-\hangindent=2em
 Lawson, M. A., Rosenberg, J. M., & Herrick, I. (2021, April). *Better together: Supporting and understanding preservice teacher (PST) sense-making about STEM*. Presentation at the American Educational Research Association Annual Meeting.
 
-\hangindent=2em
 Kellogg, S., Jiang, S., Rosenberg, J. M., & Moore, R. (2021, April). Learning Analytics in STEM Education Research (LASER) Institute. In F. J. Levine & G. L. Wimberly (Chairs), *Building capacity in STEM education research: A discussion with directors of the NSF institutes in research methods*. Symposium at the American Educational Research Association Annual Meeting.
 
 ## LAK
