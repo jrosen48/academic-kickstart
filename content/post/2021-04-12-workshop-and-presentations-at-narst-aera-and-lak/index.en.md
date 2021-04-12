@@ -17,7 +17,7 @@ image:
 projects: []
 ---
 
-Our research group had a number of presentations at the National Association for Research in Science Teaching (NARST), American Educational Research Assocation (AERA), and Learning Analytics and Knowledge (LAK) conferences over the past few weeks. Some details on those presentations (and, when pertinent, links to materials) are below.
+Our research group had a number of presentations at the National Association for Research in Science Teaching (NARST), American Educational Research Association (AERA), and Learning Analytics and Knowledge (LAK) conferences over the past few weeks. Some details on those presentations (and, when pertinent, links to materials) are below.
 
 ## NARST
 
@@ -50,6 +50,10 @@ Kellogg, S., Jiang, S., Rosenberg, J. M., & Moore, R. (2021, April). Learning An
 
 Rosenberg, J. M., & Nguyen, H. (2021). How K-12 school districts communicated during the COVID-19 pandemic: A study using Facebook data. In Dowell, N., Joksimovic, S., Scheffel, M., & Siemens, G. (Eds.), *Proceedings of the 11th International Conference on Learning Analytics & Knowledge (LAK21)*. Association for Computing Machinery.
 
+**Link to proceedings publication: https://joshuamrosenberg.com/post-prints/LAK-21-Rosenberg-Staudt-Willet-Networks-Workshop-published.pdf**
+
 Rosenberg, J. M., & Staudt Willet, K. B. (2021). Advancing social influence models in learning analytics. *Companion Proceedings 11th International Conference on Learning Analytics & Knowledge (LAK21)*.
 
 **Link to workshop presentation slides: https://docs.google.com/presentation/d/1WdCSZ4f2XRJaPyylicf9S4KUl-3xoUocamIg1_AtTmU/edit?usp=sharing**
+
+**Link to proceedings publication: https://joshuamrosenberg.com/post-prints/LAK21-Rosenberg-Nguyen-Districts-Facebook-published.pdf**
